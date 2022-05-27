@@ -1,0 +1,11 @@
+{
+  "name": "saulot-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "RyZeno",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
